@@ -1,2 +1,2 @@
 # Us-bank-and-Stellar
-Partnership of companies.
+U.S. Bank and Stellar partnered to explore how blockchain rails can improve cross-border payments and treasury flows. In this model, U.S. Bank contributes regulated banking services and enterprise payment operations, while Stellar provides a fast, low-cost blockchain network for moving digital representations of value. The partnership is generally described as combining traditional banking trust and compliance with blockchain speed, transparency, and settlement efficiency.
